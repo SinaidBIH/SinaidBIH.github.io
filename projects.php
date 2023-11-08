@@ -39,7 +39,9 @@
         <img src="blank-image3.jpg" alt="Afbeelding 3">
     </div>
 
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eleifend dapibus metus, et dapibus justo bibendum nec. Nullam at justo vel justo hendrerit facilisis. Integer auctor arcu a justo ullamcorper, et imperdiet massa convallis. Vestibulum bibendum est nec nisl efficitur bibendum. Sed sed justo nec lectus tristique interdum.</p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eleifend dapibus metus, et dapibus justo bibendum nec.
+         Nullam at justo vel justo hendrerit facilisis. Integer auctor arcu a justo ullamcorper, et imperdiet massa convallis.
+          Vestibulum bibendum est nec nisl efficitur bibendum. Sed sed justo nec lectus tristique interdum.</p>
 
     <p>Phasellus eget odio non sapien varius ultrices. Vivamus mattis felis et lacus egestas, in facilisis nisl tristique.
          Suspendisse quis dui et neque bibendum viverra in eget est. Sed feugiat felis id dui semper, sit amet feugiat ligula elementum.</p>
